@@ -1,3 +1,10 @@
+This Project is a simple analaysis of which data structure works better  for html Parsing 
+
+Outcomes:
+
+Even the project uses Queue to test . In the end I ended up usisng queue as a stack to parse the file.
+
+
 Steps for Execution
 1. Download the both code files 
 HTMLParser.java
